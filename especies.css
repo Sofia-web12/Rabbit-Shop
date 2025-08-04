@@ -100,20 +100,4 @@ img{
 .color {
     color: #4b0082;
 }
-@media screen and (max-width: 768px) {
-body {
-    font-size: 16px;
-    padding: 10px;
-}
-
-img {
-    max-width: 100%;
-    height: auto;
-}
-.contenedor, .seccion {
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-}
-}
 
